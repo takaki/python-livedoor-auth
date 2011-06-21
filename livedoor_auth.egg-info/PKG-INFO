@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: livedoor-auth
+Version: 0.0.2
+Summary: livedoor Auth API
+Home-page: http://sourceforge.jp/projects/pyldauth
+Author: TANIGUCHI Takaki
+Author-email: takaki@asis.media-as.org
+License: LGPL
+Description: UNKNOWN
+Keywords: authentication
+Platform: UNKNOWN

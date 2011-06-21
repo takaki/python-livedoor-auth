@@ -1,0 +1,37 @@
+Python livedoor Auth
+====================
+
+What's this ?
+-------------
+
+  This library is implementation of livedoor Auth
+(http://auth.livedoor.com) API.
+
+  I use perl implementation WebService::Livedoor::Auth (*1) as
+reference code.  I thank Tomohiro IKEBE for his work.
+
+(*1: http://search.cpan.org/dist/WebService-Livedoor-Auth/ )
+
+
+Dependency
+----------
+  * json-py - http://sourceforge.net/projects/json-py/
+ 
+
+How to install
+--------------
+use distutils's way.
+
+    python setup.py install
+
+How to use
+--------------
+please see example directory.
+
+Copying and License
+-------------------
+Copyright(c) 2007 TANIGUCHI Takaki <takaki@asis.media-as.org>
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as LGPL itself.
+

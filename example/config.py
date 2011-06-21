@@ -1,0 +1,2 @@
+key = 'publickey'
+sec = 'secretkey'
